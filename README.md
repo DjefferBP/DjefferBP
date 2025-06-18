@@ -1,4 +1,4 @@
-# Olá, eu sou o DjefferBP! 👋
+# Olá, eu sou o Djeffer! 👋
 
 🎓 **Estudante de Programação**  
 Atualmente curso o Ensino Médio Técnico em Desenvolvimento de Sistemas, assim como um curso no SENAI na mesma área. Estou sempre buscando aprender mais e evoluir como desenvolvedor!
