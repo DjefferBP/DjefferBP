@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou o DjefferBP! 👋
 
-<!--
-**DjefferBP/DjefferBP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Programação**  
+Atualmente curso o Ensino Médio Técnico em Desenvolvimento de Sistemas, assim como um curso no SENAI na mesma área. Estou sempre buscando aprender mais e evoluir como desenvolvedor!
 
-Here are some ideas to get you started:
+## 💻 Tecnologias e Ferramentas
+- **Linguagens:** PHP, C#, Python, JavaScript, HTML, CSS
+- **IDE:** VSCode, Visual Studio 2022
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projeto em Destaque
+[producaoCRUD](https://github.com/DjefferBP/producaoCRUD)  
+Meu principal projeto até agora, focado em práticas de CRUD e desenvolvimento de sistemas.
+
+## ✨ Sobre Mim
+- Gosto bastante de jogar para passar o tempo 🕹️
+- Sou tranquilo e tenho facilidade em dialogar 🤝
+- Sempre aberto a novos desafios e aprendizados!
+
+## 📫 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djeffer-prange-73194030b/)
