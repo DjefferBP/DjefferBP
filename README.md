@@ -8,7 +8,7 @@ Atualmente curso o Ensino Médio Técnico em Desenvolvimento de Sistemas, assim 
 - **IDE:** VSCode, Visual Studio 2022
 
 ## 🚀 Projeto em Destaque
-[producaoCRUD]([https://github.com/DjefferBP/producaoCRUD](https://github.com/DjefferBP/CRUD_pythonAPI_e_react))  
+[CRUD_pythonAPI_e_react](https://github.com/DjefferBP/CRUD_pythonAPI_e_react)  
 Meu principal projeto até agora, focado em práticas de CRUD e desenvolvimento de sistemas.
 
 ## ✨ Sobre Mim
